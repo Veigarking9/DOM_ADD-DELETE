@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clientes>
+	
+	<cliente DNI="89015435D">
+		<apellido1>DIAZ</apellido1>
+		<apellido2>SUAREZ</apellido2>
+		<nombre>CARLOS</nombre>
+		<validez estado="borrado" timestamp="1528284352"/>
+	</cliente>
+<cliente DNI="646374627W"><apellido1>VILLANUE</apellido1><apellido2/><nombre>JUÁN</nombre></cliente><cliente DNI="646374627W"><apellido1>VILLANUE</apellido1><apellido2/><nombre>JUÁN</nombre></cliente></clientes>
